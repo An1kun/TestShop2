@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestShop2</string>
+    <string name="ProductName">TextView</string>
+    <string name="ProductPrice">TextView</string>
 </resources>
